@@ -3,7 +3,7 @@ layout: post
 title: regex String dejar caracteres alfanumericos en javascript
 ---
 
-En algunas ocaciones necesitamos utilizar una regex que devuelva solo los caracteres alfanumericos de un string.
+En algunas ocasiones necesitamos utilizar una regex que devuelva solo los caracteres alfanumericos de un string.
 
 
 ```javascript  
