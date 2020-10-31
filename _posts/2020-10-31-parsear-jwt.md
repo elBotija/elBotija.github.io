@@ -3,7 +3,7 @@ layout: post
 title: Parsear JWT en javascript
 ---
 
-En algunas ocaciones necesitamos parsear/decodificar un **JWT** con javascript
+En algunas ocasiones necesitamos parsear/decodificar un **JWT** con javascript
 
 ```javascript
 const parseJWT = (token, tokenName) => {
