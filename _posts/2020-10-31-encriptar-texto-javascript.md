@@ -3,7 +3,7 @@ layout: post
 title: Arrancamos! Recorrer un objeto en javascript
 ---
 
-En algunas ocaciones necesitamos encriptar algun texto, de forma simple.
+En algunas ocaciones necesitamos encriptar algun texto, de forma simple en el front
 
 ```javascript
 const encrypted = (string, encode = true) => {
