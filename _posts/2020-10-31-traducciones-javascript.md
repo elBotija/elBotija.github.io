@@ -3,7 +3,7 @@ layout: post
 title: Como crear una funcion multilenguaje en javascript
 ---
 
-En algunas ocaciones necesitamos realizar una función para traducir los textos de nuestra app.
+En algunas ocasiones necesitamos realizar una función para traducir los textos de nuestra app.
 
 ```javascript
 const config = {lang: 'en'}

@@ -3,7 +3,7 @@ layout: post
 title: regex String dejar numeros con dos decimales en javascript
 ---
 
-En algunas ocaciones necesitamos utilizar una regex que devuelva solo números con dos decimales de un string.
+En algunas ocasiones necesitamos utilizar una regex que devuelva solo números con dos decimales de un string.
 
 
 ```javascript  

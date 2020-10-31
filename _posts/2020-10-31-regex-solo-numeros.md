@@ -3,7 +3,7 @@ layout: post
 title: regex String dejar solo numeros en javascript
 ---
 
-En algunas ocaciones necesitamos utilizar una regex que devuelva solo números de un string.
+En algunas ocasiones necesitamos utilizar una regex que devuelva solo números de un string.
 
 
 ```javascript  
