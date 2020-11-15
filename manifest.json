@@ -42,5 +42,6 @@
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "display": "standalone",
-  "start_url": "/?utm_source=homescreen"
+  "scope": "/",
+  "start_url": "./?utm_source=web_appmanifest"
 }
