@@ -5,7 +5,7 @@ title: Crear custom checkbox switch solo con CSS
 
 Algunas veces necesitamos cambiar los estilos de los checkbox de un formulario, y podemos hacerlo solo con css.
 
-[**Ejemplo**](https://jsfiddle.net/31ndfmsj/){target="_blank"}
+[**Ejemplo**](https://jsfiddle.net/31ndfmsj/)
 
 ```html
 <h1>Custom Checkboxes</h1>
