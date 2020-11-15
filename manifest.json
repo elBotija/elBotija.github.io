@@ -1,5 +1,6 @@
 {
  "name": "elBotija",
+ "short_name": "elBotija",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
@@ -37,5 +38,9 @@
    "type": "image\/png",
    "density": "4.0"
   }
- ]
+ ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/?utm_source=homescreen"
 }
