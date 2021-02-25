@@ -7,9 +7,11 @@ Cuando estamos trabajando en uno o más proyectos, es importante poder encontrar
 Muchas veces algunas definiciones, resultantes de reuniones que quedan en minutas que se envían por mail, no siempre son llevadas a las documentaciones correspondientes.
 
 **Problema**
+
 Pérdida de información y definiciones enviadas por mail, que no fueron documentadas debidamente al momento de ser recibidas. Por consecuencia a la hora de desarrollar o volver a retomar una tarea, se pierde información valiosa.
 
 **Estrategia**
+
 En estos casos es muy conveniente ingresar el código que utilizamos en nuestro gestor de tickets para que de esta forma quede asociado a la tarea correspondiente. Es indistinto si se realiza  al principio o al final del subject.
 
 ```
