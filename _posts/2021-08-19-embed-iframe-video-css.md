@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Embed iframe de responsive con css
+title: Embed video iframe responsive con css
 ---
 
 Como hacer para que un iframe por ejemplo de Youtube sea responsive, conservando el aspect ratio.
