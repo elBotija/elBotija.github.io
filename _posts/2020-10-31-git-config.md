@@ -39,4 +39,6 @@ ci = commit
 co = checkout
 st = status
 di = diff
+lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %Cblue%aN%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
+
 ```
