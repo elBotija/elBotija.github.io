@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <!-- title and description managed by jekyll-seo-tag -->
 
     {% include meta.html %}
 
@@ -10,8 +10,7 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <meta name="google-site-verification" content="iG0z-b5DkTps7xAVtfuWeONOMEIu8eFJ_RrXgb7m6SI" />
+    <!-- meta tags managed by jekyll-seo-tag -->
     {% seo %}
   </head>
 
