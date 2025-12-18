@@ -67,11 +67,11 @@ Supongamos que tenés una tupla con coordenadas:
 
 ```python
 punto = (10, 20)
-# La forma aburrida
+# Forma directa
 x = punto[0]
 y = punto[1]
 
-# La forma simplificada
+# Forma simplificada
 x, y = punto
 ```
 
