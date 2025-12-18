@@ -1,4 +1,3 @@
-
 //
 // VARIABLES
 //
@@ -11,6 +10,19 @@
   --border-color: #eee;
   --gray: #666;
   --light-gray: #eee;
+
+  // Code Highlight Colors (Light - Solarized-ish)
+  --code-bg: #efefef;
+  --code-border: #ddd;
+  --code-text: #333;
+  --code-comment: #586E75;
+  --code-keyword: #859900;
+  --code-string: #2AA198;
+  --code-name: #268BD2;
+  --code-operator: #859900;
+  --code-literal: #2AA198;
+  --code-error: #93A1A1;
+  --code-other: #CB4B16;
 }
 
 [data-theme="dark"] {
@@ -21,6 +33,19 @@
   --border-color: #333;
   --gray: #aaa;
   --light-gray: #1e1e1e;
+
+  // Code Highlight Colors (Dark - Monokai-ish)
+  --code-bg: #272822;
+  --code-border: #444;
+  --code-text: #F8F8F2;
+  --code-comment: #75715E;
+  --code-keyword: #F92672;
+  --code-string: #E6DB74;
+  --code-name: #66D9EF;
+  --code-operator: #F92672;
+  --code-literal: #AE81FF;
+  --code-error: #F92672;
+  --code-other: #A6E22E;
 }
 
 // Colors
