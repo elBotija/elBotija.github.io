@@ -3,16 +3,36 @@
 // VARIABLES
 //
 
+:root {
+  --bg-color: #fff;
+  --text-color: #333;
+  --heading-color: #222;
+  --link-color: #4183C4;
+  --border-color: #eee;
+  --gray: #666;
+  --light-gray: #eee;
+}
+
+[data-theme="dark"] {
+  --bg-color: #121212;
+  --text-color: #e0e0e0;
+  --heading-color: #f0f0f0;
+  --link-color: #64b5f6;
+  --border-color: #333;
+  --gray: #aaa;
+  --light-gray: #1e1e1e;
+}
+
 // Colors
-$blue: #4183C4;
+$blue: var(--link-color);
 
 // Grays
 $black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
+$darkerGray: var(--heading-color);
+$darkGray: var(--text-color);
+$gray: var(--gray);
+$lightGray: var(--light-gray);
+$white: var(--bg-color);
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
