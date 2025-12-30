@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "AWS: Configurando tu entorno de desarrollo local para AWS"
+description: "Tutorial para instalar y configurar AWS CLI v2 en Mac, Linux y Windows. Manejo de perfiles, credenciales y seguridad (SSO)."
+tags: [AWS, CLI, DevOps, Tutorial]
 ---
 
 Si trabajas con AWS, tarde o temprano vas a necesitar interactuar con la nube desde tu terminal. Ya sea para desplegar infraestructura, subir archivos a S3 o invocar una función Lambda, tener tu entorno local bien configurado es el primer paso para ser productivo.
