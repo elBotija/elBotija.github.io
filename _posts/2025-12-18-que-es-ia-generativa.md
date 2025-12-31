@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "IA: ¿Qué es la IA Generativa y por qué debería importarte?"
+description: "Entendé qué es la IA Generativa (GenAI) y cómo está transformando el desarrollo de software. Productividad, tests y documentación automática."
+tags: [IA, GenAI, Productividad, Desarrollo]
 ---
 
-Seamos honestos: hasta hace poco, cuando escuchábamos "Inteligencia Artificial", la mayoría de nosotros pensaba en clasificadores de imágenes, sistemas de recomendación o lógica compleja para NPCs en videojuegos. Era un campo reservado para Data Scientists con doctorados y máquinas potentes.
+Seamos honestos: hasta hace no mucho tiempo atrás, cuando escuchábamos "Inteligencia Artificial", la mayoría de nosotros pensaba en clasificadores de imágenes, sistemas de recomendación o lógica compleja para NPCs en videojuegos. Era un campo reservado para Data Scientists con doctorados y máquinas potentes.
 
 Pero la cosa cambió. Y cambió rápido. La IA Generativa (GenAI) no es solo una mejora incremental; es un cambio de paradigma. Ya no se trata solo de *analizar* datos existentes, sino de *crear* contenido nuevo. Y como desarrollador, si no le estás prestando atención, te estás perdiendo la herramienta más potente que apareció en años para potenciar tu productividad.
 
@@ -102,9 +104,9 @@ Por supuesto, vos tenés que revisar que los tests tengan sentido, pero el traba
 
 ---
 
-## 4. ¡Ojo! No le des las llaves de tu casa al robot
+## 4. ¡Ojo! No le des las llaves de tu casa a boti
 
-Esto es crítico. **Nunca, bajo ninguna circunstancia, pegues credenciales, API Keys, contraseñas o datos sensibles de clientes en un chat de IA** (especialmente en las versiones gratuitas o públicas).
+Esto es crítico. **Nunca, bajo ninguna circunstancia, pegues credenciales, API Keys, contraseñas o datos sensibles en un chat de IA** (especialmente en las versiones gratuitas o públicas).
 
 Tené en cuenta que muchos de estos servicios usan tus interacciones para re-entrenar sus modelos. Si le pasás tu `AWS_SECRET_ACCESS_KEY` para que te ayude a debuggear, esa clave podría terminar siendo parte del conocimiento del modelo.
 

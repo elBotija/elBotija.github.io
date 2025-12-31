@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "AWS: Entendiendo IAM sin morir en el intento"
+description: "Guía definitiva para entender AWS IAM. Diferencias entre Usuarios, Grupos, Roles y Políticas para asegurar tu nube sin complicaciones."
+tags: [AWS, IAM, Seguridad, Cloud]
 ---
 
 Si alguna vez entraste a la consola de AWS y te sentiste completamente perdido o abrumado por la cantidad de opciones, no estás solo. IAM (Identity and Access Management) es, sin dudas, el servicio más importante de AWS, pero también uno de los más intimidantes al principio.

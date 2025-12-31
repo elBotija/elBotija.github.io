@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Python: Manejo de entornos virtuales con venv y poetry"
+description: "Dejá de instalar todo globalmente. Aprendé a usar venv y Poetry para gestionar dependencias y entornos virtuales en Python como un profesional."
+tags: [Python, Poetry, Venv, Buenas Prácticas]
 ---
 
 ¿Alguna vez te pasó que un script funcionaba perfecto en tu máquina, pero al pasárselo a un compañero le tiraba error porque le faltaba una librería? ¿O que actualizaste una librería para un proyecto nuevo y rompiste uno viejo?

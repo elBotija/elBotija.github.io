@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "IA: Integrando OpenAI API con Python en 10 líneas"
+description: "Aprendé a integrar la API de GPT-4 en tus scripts de Python. Tutorial rápido, código limpio y buenas prácticas de seguridad."
+tags: [IA, Python, OpenAI, API]
 ---
 
 Todo el mundo habla de Inteligencia Artificial, de ChatGPT y de cómo va a cambiar el mundo. Pero como desarrolladores, la pregunta que realmente nos importa es: ¿Cómo integro esto en mi código?

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Python: 5 Trucos de Python que todo desarrollador debería conocer"
+description: "Mejorá tu código Python con estos 5 trucos: List Comprehensions, f-strings, Unpacking, Enumerate y Zip. Ejemplos prácticos."
+tags: [Python, Trucos, Clean Code, Tips]
 ---
 
 Python es famoso por ser legible y limpio, pero cuando venimos de otros lenguajes, a veces tendemos a escribir código sin aprovechar las formas cortas y expresivas que el lenguaje nos ofrece.

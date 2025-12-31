@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "AWS: S3 más allá del almacenamiento de archivos"
+description: "Descubrí cómo usar AWS S3 para hostear sitios web estáticos y configurar reglas de ciclo de vida para ahorrar dinero automáticamente."
+tags: [AWS, S3, Hosting, Cloud]
 ---
 
 Cuando empezamos con AWS, solemos ver a S3 (Simple Storage Service) como un simple "disco duro en la nube" donde tirar backups, imágenes de usuarios o logs. Y sí, sirve para eso, pero quedarnos ahí es desperdiciar gran parte de su potencial.
