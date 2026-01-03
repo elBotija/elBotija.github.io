@@ -5,7 +5,7 @@ description: "Tutorial paso a paso para organizar archivos y automatizar tareas 
 tags: [Python, Automatización, Scripts, Bash]
 ---
 
-¿Alguna vez te encontraste haciendo la misma tarea repetitiva en tu computadora una y otra vez? Renombrar 50 archivos, mover reportes de una carpeta a otra, o limpiar tu escritorio que parece un campo de batalla digital.
+¿Alguna vez te encontraste haciendo la misma tarea repetitiva en tu computadora una y otra vez? Renombrar 50 archivos, mover reportes de una carpeta a otra, o limpiar tu escritorio que parece un campo de batalla.
 
 Si lo hiciste más de tres veces, es hora de automatizarlo.
 
