@@ -4,26 +4,29 @@ title: About
 permalink: /about/
 ---
 
-**elBotija** Front-End Developer
+# Hola, soy Mauro.
 
-### More Information
+**Software Architect**
 
-Trabajamos y nos divertimos!
+Soy un profesional con un perfil híbrido y multidisciplinario. Mi formación como **Licenciado en Tecnología Multimedial** me brindó una visión integradora que vincula la programación y la tecnología aplicada con el diseño, la cultura digital y la gestión de negocios.
 
-<a html="https://elbotija.github.io/find-image/" target="_blank">https://elbotija.github.io/find-image</a><br>
-<a html="https://elbotija.github.io/criptomonedas/" target="_blank">https://elbotija.github.io/criptomonedas</a><br>
-<a html="https://elbotija.github.io/soft-biblioteca" target="_blank">https://elbotija.github.io/soft-biblioteca</a><br>
-<a html="https://elbotija.github.io/busca-letras" target="_blank">https://elbotija.github.io/busca-letras</a><br>
-<a html="https://elbotija.github.io/teclado" target="_blank">https://elbotija.github.io/teclado</a><br>
-<a html="https://elbotija.github.io/breakingbad" target="_blank">https://elbotija.github.io/breakingbad</a><br>
-<a html="https://elbotija.github.io/get-data-display" target="_blank">https://elbotija.github.io/get-data-display</a><br>
-<a html="https://elbotija.github.io/turnos-redux" target="_blank">https://elbotija.github.io/turnos-redux</a><br>
-<a html="https://elbotija.github.io/eventos" target="_blank">https://elbotija.github.io/eventos</a><br>
-<a html="https://elbotija.github.io/turnos" target="_blank">https://elbotija.github.io/turnos</a><br>
-<a html="https://elbotija.github.io/gasto-semanal" target="_blank">https://elbotija.github.io/gasto-semanal</a><br>
-<a html="https://elbotija.github.io/search-movies" target="_blank">https://elbotija.github.io/search-movies</a><br>
-<a html="https://elbotija.github.io/cotizador-seguro" target="_blank">https://elbotija.github.io/cotizador-seguro</a><br>
-<a html="https://elbotija.github.io/weather-finder" target="_blank">https://elbotija.github.io/weather-finder</a><br>
-### Contact me
+Esta base me permite no solo liderar el desarrollo de soluciones técnicas, sino también entender el impacto estratégico de los proyectos, actuando como un nexo entre las necesidades del negocio y la implementación tecnológica.
 
-[mauroenpixels@gmail.com](mailto:mauroenpixels@gmail.com)
+---
+
+## Mi enfoque
+
+Me especializo en diseñar y liderar arquitecturas de software, con un fuerte foco en la nube y la escalabilidad. Mi rol va más allá del código: se trata de imaginar proyectos para los desafíos del futuro, integrando equipos y visiones diversas para crear productos digitales robustos e innovadores.
+
+---
+
+## Proyectos y Colaboración
+
+Más allá de mi rol corporativo, mantengo una actividad constante en el ecosistema tecnológico. Ya sea desarrollando proyectos personales para experimentar con nuevas herramientas o colaborando en iniciativas de terceros, creo firmemente en el aprendizaje continuo a través de la práctica.
+
+---
+
+## Conectemos
+
+- **LinkedIn:** [Mauro Martinez](https://www.linkedin.com/in/mauro-martinez/)
+- **GitHub:** [elbotija](https://github.com/elbotija)
