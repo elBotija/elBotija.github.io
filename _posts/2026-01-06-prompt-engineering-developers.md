@@ -40,7 +40,9 @@ La mayoría de los entornos de desarrollo modernos y asistentes de IA permiten d
 
 *   **VS Code / IDEs:** Podés configurar reglas a nivel de proyecto para que el asistente sepa exactamente cómo escribir código para ese repo.
 *   **Claude Projects:** Podés subir un archivo `project_rules.md` o similar a tu "Project", y Claude lo va a respetar en cada chat dentro de ese proyecto.
-*   **Amazon Q:** Tiene la capacidad de entender el contexto de tu repositorio y podés guiarlo con directrices específicas.
+*   **Amazon Q o Kiro:** Tiene su propio archivo de reglas que puedes configurar.
+
+Por mencionar algunos, te invito a que busques en la documentación de tu herramienta de preferencia para ver cómo configurar estas reglas.
 
 **¿Qué poner en estas reglas?**
 *   Estándares de código (PEP8, ESLint).
