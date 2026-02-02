@@ -77,10 +77,10 @@ const dbUrl = process.env.MI_APP_DATABASE_URL
 
 ### Ventajas
 
-- ✅ No hay ningún archivo con secretos en el proyecto
-- ✅ La IA no puede ver lo que no existe
-- ✅ Funciona con cualquier herramienta, lenguaje o framework
-- ✅ Cero dependencias adicionales
+- No hay ningún archivo con secretos en el proyecto
+- La IA no puede ver lo que no existe
+- Funciona con cualquier herramienta, lenguaje o framework
+- Cero dependencias adicionales
 
 ### Desventajas
 
@@ -188,10 +188,10 @@ api_key = secret['data']['data']['api_key']
 
 ### Ventajas
 
-- ✅ Secretos nunca existen en tu máquina local
-- ✅ Rotación automática de credenciales
-- ✅ Auditoría de quién accede a qué
-- ✅ Control de acceso granular
+- Secretos nunca existen en tu máquina local
+- Rotación automática de credenciales
+- Auditoría de quién accede a qué
+- Control de acceso granular
 
 ## Comparación de Estrategias
 
